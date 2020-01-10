@@ -3,7 +3,7 @@ var mysql = require('mysql');
 var dbConfig = {
     host     : 'localhost', //接続先ホスト
     user     : 'root',      //ユーザー名
-    password : '9JiKsLAN.',          //パスワード
+    password : 'xxx',          //パスワード
     database : 'test'       //DB名
 };
 
